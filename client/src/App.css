@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&family=Work+Sans:wght@300&display=swap');
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  /* background-image: url("./background.png"); */
+  background-color: #131324;
+  background-size: cover;
+  background-position: center;
+  color: black;
+}
+
+.emoji{
+  color: rgb(108, 107, 51);
+  cursor: pointer;
+}
+.emoji-picker-react {
+  margin-left: 250px;
+  margin-bottom: 300px;
+}
+
